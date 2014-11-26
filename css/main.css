@@ -1,0 +1,21 @@
+.body {
+    text-align: center;
+    border-style: groove;
+    border-width: 5px;
+}
+
+.icons {
+    margin-top: 100px;
+}
+
+.jumbotron {
+    background-image: url(../img/xeba_banner3.jpg);
+    background-size: cover;
+    margin: 0px;
+}
+
+footer {
+    text-align: center;
+}
+
+
