@@ -1,19 +1,22 @@
-.body {
-    text-align: center;
-    border-style: groove;
-    border-width: 5px;
+h1 {
+    font-size: 30px;
 }
 
+h2 {
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+
 .jumbotron {
-    /*background-image: url(../img/xeba_banner3.jpg);*/
+    background-image: url(../img/xeba_banner3.jpg);
     background-color: rgb(164, 143, 159);
     background-size: cover;
     margin: 0px;
     color:#FFFFFF;
-}
-
-#title {
-
 }
 
 .icons {
@@ -23,6 +26,15 @@
 .icons img {
     width: 50px;
     margin-right:20px;
+}
+
+.supporters h2 {
+    margin: 20px 15px 20px 15px;
+}
+
+.supporters img {
+    display: block;
+    margin-bottom: 20px;
 }
 
 footer {
