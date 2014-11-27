@@ -1,5 +1,6 @@
 h1 {
     font-size: 30px;
+
 }
 
 h2 {
@@ -12,11 +13,11 @@ h3 {
 
 
 .jumbotron {
-    background-image: url(../img/xeba_banner3.jpg);
+    background-image: url(../img/eba_banner3.jpg);
     background-color: rgb(164, 143, 159);
     background-size: cover;
     margin: 0px;
-    color:#FFFFFF;
+    min-height: 100px;
 }
 
 .icons {
@@ -41,4 +42,20 @@ footer {
     text-align: center;
 }
 
+@media screen and (min-width: 768px){
 
+    .jumbotron h1, .jumbotron .h1 {
+        font-size: 40px;
+    }
+
+    .supporters img {
+        display: inline;
+        margin-right: 30px;
+    }
+}
+
+@media (min-width: 992px){
+    .site_title {
+        width: 100%;
+    }
+}
