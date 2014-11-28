@@ -17,7 +17,7 @@ h3 {
     background-color: rgb(164, 143, 159);
     background-size: cover;
     margin: 0px;
-    min-height: 100px;
+    min-height: 200px;
 }
 
 .icons {
@@ -52,10 +52,12 @@ footer {
         display: inline;
         margin-right: 30px;
     }
+
 }
 
 @media (min-width: 992px){
     .site_title {
         width: 100%;
     }
+
 }
