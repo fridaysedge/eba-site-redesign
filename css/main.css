@@ -4,11 +4,15 @@ h1 {
 }
 
 h2 {
-    font-size: 26px;
+    font-size: 24px;
 }
 
 h3 {
-    font-size: 24px;
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 18px;
 }
 
 
@@ -36,6 +40,10 @@ h3 {
     margin-right:20px;
 }
 
+.icons img:hover {
+    opacity: .70;
+}
+
 .supporters {
     margin-top: 30px;
 }
@@ -47,6 +55,10 @@ h3 {
 .supporters img {
     display: block;
     margin-bottom: 20px;
+}
+
+.supporters img:hover {
+    opacity: .70;
 }
 
 footer {
