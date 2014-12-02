@@ -15,7 +15,6 @@ h4 {
     font-size: 18px;
 }
 
-
 .jumbotron {
     background-image: url(../img/eba_banner3.jpg);
     background-color: rgb(164, 143, 159);
@@ -24,6 +23,26 @@ h4 {
     min-height: 200px;
     padding-top: 0px;
     padding-left: 0px;
+}
+
+.staff {
+    background-image: url(../img/eba_banner9.jpg);
+}
+
+.project {
+    background-image: url(../img/eba_banner7.jpg);
+}
+
+.diaries {
+    background-image: url(../img/eba_banner4.jpg);
+}
+
+.emmapedia {
+    background-image: url(../img/eba_banner6.jpg);
+}
+
+.emma {
+    background-image: url(../img/eba_banner7.jpg);
 }
 
 .row {
