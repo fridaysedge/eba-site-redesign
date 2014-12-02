@@ -12,7 +12,7 @@ TODO List 12/01/2014:
 -- [COMPLETE] -> Did not like and reverted. Change buttons to a links (Andre)
 -- [COMPLETE] Footer needs some padding and a line to separate it from the page content (Andre)
 -- The Project Page, Make sure the Headings are correct (Chris / Andre)
--- Center the supporter identities (Chris)
+-- [COMPLETE] Center the supporter identities (Chris)
 -- Placeholder image for Emma B Andrews Page (Chris)
 -- Play with fonts (Andre)
 -- The Diaries page, Change font for diary entry (Chris)
