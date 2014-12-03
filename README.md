@@ -21,10 +21,10 @@ TODO List 12/01/2014:
 
 -- [COMPLETE] Center the supporter identities (Chris)
 
--- Placeholder image for Emma B Andrews Page (Chris)
+-- [COMPLETE] Placeholder image for Emma B Andrews Page (Chris)
 
 -- Play with fonts (Andre)
 
--- The Diaries page, Change font for diary entry (Chris)
+-- [COMPLETE] The Diaries page, Change font for diary entry (Chris)
 
--- Different header image for pages (Andre)
+-- [COMPLETE] Different header image for pages (Andre)
